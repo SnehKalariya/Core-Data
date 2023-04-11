@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		32D0DDE129E5896700993CFF /* ViewController2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 32D0DDE029E5896700993CFF /* ViewController2.swift */; };
 		32E3A20429DFE7C400B5F44B /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 32E3A20329DFE7C400B5F44B /* AppDelegate.swift */; };
 		32E3A20629DFE7C400B5F44B /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 32E3A20529DFE7C400B5F44B /* SceneDelegate.swift */; };
 		32E3A20829DFE7C400B5F44B /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 32E3A20729DFE7C400B5F44B /* ViewController.swift */; };
@@ -17,6 +18,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		32D0DDE029E5896700993CFF /* ViewController2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController2.swift; sourceTree = "<group>"; };
 		32E3A20029DFE7C400B5F44B /* Core Data.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Core Data.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		32E3A20329DFE7C400B5F44B /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		32E3A20529DFE7C400B5F44B /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -62,6 +64,7 @@
 				32E3A20529DFE7C400B5F44B /* SceneDelegate.swift */,
 				32E3A20729DFE7C400B5F44B /* ViewController.swift */,
 				32E3A20929DFE7C400B5F44B /* Main.storyboard */,
+				32D0DDE029E5896700993CFF /* ViewController2.swift */,
 				32E3A20F29DFE7C500B5F44B /* Assets.xcassets */,
 				32E3A21129DFE7C500B5F44B /* LaunchScreen.storyboard */,
 				32E3A21429DFE7C500B5F44B /* Info.plist */,
@@ -141,6 +144,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				32D0DDE129E5896700993CFF /* ViewController2.swift in Sources */,
 				32E3A20E29DFE7C400B5F44B /* Core_Data.xcdatamodeld in Sources */,
 				32E3A20829DFE7C400B5F44B /* ViewController.swift in Sources */,
 				32E3A20429DFE7C400B5F44B /* AppDelegate.swift in Sources */,
